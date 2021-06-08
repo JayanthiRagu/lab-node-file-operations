@@ -1,0 +1,7 @@
+ProGrad Details
+UserId->1000,
+Name ->Prograd,
+Year ->2020,
+Qualification ->BE,
+UserName->Jayanthi,
+Password->db2db82fa765c40eacfe300fbb385ad7b6416c4a1614baacfd027e165e309666
